@@ -1,0 +1,130 @@
+{
+    "guild": [
+        {
+            "_id": "643809718ea8c97beea09564",
+            "meme_num": 20,
+            "reason": [
+                "hacker",
+                "rude"
+            ]
+        }
+    ],
+    "player": [
+        {
+            "uuid": "37f5716e87f64c238564edce685d5b57",
+            "meme_num": 1,
+            "reason": [
+                "hacker",
+                "steal_account"
+            ]
+        },
+        {
+            "uuid": "70a47181b1ba4bda88b4d9abbcef90c4",
+            "meme_num": 2,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "25e9707ded3d4c35b825d9ed47fb84f5",
+            "meme_num": 3,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "3a2c7490b10f4823a66b3831559e6bf7",
+            "meme_num": 7,
+            "reason": [
+                "hacker",
+                "rude",
+                "boosting"
+            ]
+        },
+        {
+            "uuid": "29378cb7417c4812801f386c3f143925",
+            "meme_num": 7,
+            "reason": [
+                "hacker"
+            ]
+        },
+        {
+            "uuid": "d221f4240d34483a985313656073481c",
+            "meme_num": 7,
+            "reason": [
+                "hacker"
+            ]
+        },
+        {
+            "uuid": "440229f45124422faba5b9a665cf3410",
+            "meme_num": 10,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "1720d14fb63e40bb9b6f7541d5e8a4e7",
+            "meme_num": 12,
+            "reason": [
+                "hacker",
+                "rude"
+            ]
+        },
+        {
+            "uuid": "9c0002cc48b04e61bf4dc3a6a8dd172f",
+            "meme_num": 14,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "e84720fa5c74424e9ca0d981bbf06a3d",
+            "meme_num": 15,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "e4c3871ff8e049e699e42d5d79f8a56d",
+            "meme_num": 16,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "e4fb8b5558d64689b454dfa3c3af5c2c",
+            "meme_num": 18,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "f844b9f473a54bcaacade27a55aa9fa5",
+            "meme_num": 19,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "291d014452d0400f85458fdd224b3f0d",
+            "meme_num": 21,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "0a4a22116bb34180bbd0c4a3690ef397",
+            "meme_num": 22,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "5c51d06b0f7a4adf977030bca24b65cd",
+            "meme_num": 22,
+            "reason": [
+                "rude"
+            ]
+        }
+    ]
+}
