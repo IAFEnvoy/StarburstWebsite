@@ -7,6 +7,14 @@
                 "hacker",
                 "rude"
             ]
+        },
+        {
+            "_id": "64539a818ea8c90b385c8c21",
+            "meme_num": 4,
+            "reason": [
+                "liar",
+                "hacker"
+            ]
         }
     ],
     "player": [
@@ -122,6 +130,74 @@
         {
             "uuid": "5c51d06b0f7a4adf977030bca24b65cd",
             "meme_num": 22,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "3673c4ec2e8f4061bb9229c6185a8ee2",
+            "meme_num": 25,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "dc69337f8c2a44c19d71fe210b4cee89",
+            "meme_num": 25,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "54059a44959a4d36b846e8c58c899efa",
+            "meme_num": 26,
+            "reason": [
+                "hacker",
+                "sniper"
+            ]
+        },
+        {
+            "uuid": "ed21d2a16cf5473eb7d86a7f4b60d47c",
+            "meme_num": 26,
+            "reason": [
+                "hacker",
+                "sniper"
+            ]
+        },
+        {
+            "uuid": "2df2e87243144f75ac8fa8f61dc370a8",
+            "meme_num": 26,
+            "reason": [
+                "hacker",
+                "sniper"
+            ]
+        },
+        {
+            "uuid": "6607622851f34a3fbd694ec2ccad981a",
+            "meme_num": 26,
+            "reason": [
+                "hacker",
+                "sniper"
+            ]
+        },
+        {
+            "uuid": "dc0ef8a48f2e47bca946173b50b105ab",
+            "meme_num": 26,
+            "reason": [
+                "hacker",
+                "sniper"
+            ]
+        },
+        {
+            "uuid": "1032690d43964c18938ea896f5ab688a",
+            "meme_num": 27,
+            "reason": [
+                "rude"
+            ]
+        },
+        {
+            "uuid": "894bba9ed6b441deab3db1daf8ad4a00",
+            "meme_num": 27,
             "reason": [
                 "rude"
             ]
